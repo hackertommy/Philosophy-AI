@@ -1,7 +1,9 @@
 # Philosophy-AI
 we are trying to make the next big philosopher (not really)
 
-By Tom Serrino and Karthik Srinivasen
+By Tom Serrino 
+
+Inspired by Karthik Srinivasen
 
 Resources used:
 
