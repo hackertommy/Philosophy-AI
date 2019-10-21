@@ -8,6 +8,7 @@ Inspired by Karthik Srinivasen
 Resources used:
 
 Project Gutenberg
+https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
 Potentially using:
 NTLK.org
