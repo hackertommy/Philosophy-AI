@@ -8,6 +8,7 @@ Inspired by Karthik Srinivasen
 Resources used:
 
 Project Gutenberg
+
 Jason Brownlee's "Text Generation with LSTM Recurrent Neural Networks"
 
 Potentially using:
